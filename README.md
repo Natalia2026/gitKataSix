@@ -1,2 +1,2 @@
 # gitKataSix
-Clone
+This repo is to practice using git clone
